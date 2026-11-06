@@ -29,9 +29,8 @@
     "ignoreCommand": []
   },
   "adminBot": [
-  "61573867120837",
-  "61590552177904"  
-],
+  "61577555115399"
+  ],
 "developer": [
   "61573867120837"
 ],
@@ -40,8 +39,7 @@
   "61590552177904"
 ],
   "premiumUser": [
-    "61573867120837",
-    "61590552177904"
+    "61577555115399"
   ],
   "reactBy": {
     "delete": ["🗑️", "❌", "😠", "😡", "😾"],
@@ -52,7 +50,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝙷𝙾𝚁𝙸 ⌬ 𝗔𝗜",
+  "nickNameBot": "Your name bot",
   "prefix": "!",
   "database": {
     "type": "mongodb",
