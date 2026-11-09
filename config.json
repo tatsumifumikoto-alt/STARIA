@@ -32,11 +32,10 @@
   "61577555115399"
   ],
 "developer": [
-  "61573867120837"
+  "61577555115399"
 ],
 "vipuser": [
-  "61573867120837",
-  "61590552177904"
+  "6157755511399",
 ],
   "premiumUser": [
     "61577555115399"
@@ -50,7 +49,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Your name bot",
+  "nickNameBot": "★★𝗦𝗧𝗔𝗥𝗜𝗔★★",
   "prefix": "!",
   "database": {
     "type": "mongodb",
